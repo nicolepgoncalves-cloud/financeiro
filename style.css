@@ -1,0 +1,17 @@
+body{
+    background-color: lightyellow;
+    text-align: center;
+}
+
+h1{
+    font-style: italic;
+    color: black;
+    text-align: center;
+}
+
+button{
+    background-color: lightgray;
+    margin: 10px 0;
+    border-radius: 8px;
+}
+

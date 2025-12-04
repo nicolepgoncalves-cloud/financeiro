@@ -1,6 +1,6 @@
 <?php
 require_once 'config.php';
-require_once 'mensagem.php';
+require_once 'mensagens.php';
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $email = $_POST['email'] ?? '';
