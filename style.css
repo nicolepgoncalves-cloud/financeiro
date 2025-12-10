@@ -1,17 +1,41 @@
 body{
     background-color: lightyellow;
     text-align: center;
+    background-image: url(imagens/monster2.jpg);
 }
 
-h1{
+  h3, p{
     font-style: italic;
-    color: black;
+    color: white;
     text-align: center;
 }
 
 button{
-    background-color: lightgray;
+    background-color: lightseagreen;
     margin: 10px 0;
     border-radius: 8px;
+    font-style: italic;
+    border-color: lightslategray;
 }
+
+h1, h2{
+    color: lightpink;
+    font-style: italic;
+}
+
+form{
+    color: white;
+}
+
+.sistema{
+    color: rgb(187, 60, 187);
+}
+
+.set_mensagem{
+    background-color: red;
+    text-align: center;
+}
+
+
+
 
